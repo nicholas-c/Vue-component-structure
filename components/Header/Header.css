@@ -1,0 +1,7 @@
+.header {
+  @apply .text-center .text-3xl;
+
+  &__subtitle {
+    @apply .w-full .text-xl;
+  }
+}
